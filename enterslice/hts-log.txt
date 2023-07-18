@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Jul 2023 00:47:51 at https://enterslice.com/learning/difference-between-audit-and-assurance/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0I0%I0p3SaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%l "en, *" https://enterslice.com/learning/difference-between-audit-and-assurance/ -O1 "C:\My Web Sites\enterslice" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:48:40	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js (from https://enterslice.com/learning/difference-between-audit-and-assurance/)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-includes/js/jquery/jquery.min.js (from https://enterslice.com/learning/difference-between-audit-and-assurance/)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/litespeed/js/274667f338e9f82dcc9ba43527e0b3f1.js?ver=e03ac (from https://enterslice.com/learning/difference-between-audit-and-assurance/)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/package-icon.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/package-cirlce-icon.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/partner-tick-icon.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/contact-us-banner.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/location-icon.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/country-service-banner.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+00:48:52	Error: 	"Forbidden" (403) at link https://enterslice.com/learning/wp-content/themes/enterslice-2023/img/login-side-img.png (from https://enterslice.com/learning/wp-content/litespeed/css/e91b76c6abeeb7738fba50ad24104900.css?ver=e03ac)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 108 links scanned, 97 files written (1787559 bytes overall), 98 files updated [1221591 bytes received at 20026 bytes/sec], 927608 bytes transferred using HTTP compression in 19 files, ratio 23%, 24.6 requests per connection
+(10 errors, 0 warnings, 0 messages)
